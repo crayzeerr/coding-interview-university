@@ -1,5 +1,5 @@
 # Coding Interview University
-[Topics of Study](https://github.com/jwasham/coding-interview-university#topics-of-study)
+[Topics of Study](https://github.com/crayzeerr/coding-interview-university#topics-of-study)
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
